@@ -1,0 +1,1 @@
+This folder shoud be paste in the "COM" folder inside the modules folder of the server
